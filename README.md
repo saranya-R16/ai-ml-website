@@ -4,10 +4,7 @@ A modern and responsive website built using HTML and CSS that showcases the conc
 
 ## 🚀 Live Website
 
-Add your GitHub Pages link here after deployment:
-
-text
-https://saranya-r16.github.io/intern-task-1/
+https://saranya-r16.github.io/ai-ml-website/
 
 
 ## 📌 Features
@@ -56,33 +53,20 @@ This project demonstrates how Data Analysis and Artificial Intelligence are tran
 **Saranya**
 
 GitHub Repository:
-https://github.com/saranya-R16/intern-task-1
+https://github.com/saranya-R16/ai-ml-website.git
 
 GitHub Profile:
 https://github.com/saranya-R16
 
+Project live link:
+ https://saranya-r16.github.io/ai-ml-website/
+
 Email:
 [saranyasara1611@gmail.com](mailto:saranyasara1611@gmail.com)
-
-## 📸 Project Preview
-
-Add screenshots of your website here after deployment.
 
 ## 🌐 Deployment
 
 This website is hosted using GitHub Pages.
-
-To deploy:
-
-1. Push the project to GitHub.
-2. Open Repository Settings.
-3. Go to Pages.
-4. Select:
-
-   * Branch: main
-   * Folder: /(root)
-5. Click Save.
-6. Wait a few minutes for the website to go live.
 
 ## 📄 License
 
